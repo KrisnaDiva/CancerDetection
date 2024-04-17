@@ -15,12 +15,6 @@
         android:theme="@style/ThemeOverlay.AppTheme.MediumContrast"
         tools:targetApi="31">
         <activity
-            android:name=".view.NewsActivity"
-            android:exported="false" />
-        <activity
-            android:name=".view.HistoryActivity"
-            android:exported="false" />
-        <activity
             android:name="com.yalantis.ucrop.UCropActivity"
             android:screenOrientation="fullSensor"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />

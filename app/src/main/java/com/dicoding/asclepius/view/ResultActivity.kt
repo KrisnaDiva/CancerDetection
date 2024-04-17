@@ -35,7 +35,7 @@ class ResultActivity : AppCompatActivity() {
     private fun displayResult() {
         val result = intent.getStringExtra(EXTRA_RESULT)
         result?.let {
-            binding.resultText.text = it
+            binding.resultText.text = "Result: $it"
         }
     }
 

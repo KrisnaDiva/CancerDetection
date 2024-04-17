@@ -14,4 +14,8 @@
     <string name="news_image">News Image</string>
     <string name="analyze_image">Analysis Image</string>
     <string name="clear_all">Clear All</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_article">Article</string>
+    <string name="title_history">History</string>
+    <string name="no_image_uploaded">No Image Uploaded</string>
 </resources>
